@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+      "authorName": "Florian Olivo",
+      "blogTitle": "How to get your first job as a self-taught programmer?",
+      "blogCoverImage": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "authorImage" : "https://images.unsplash.com/profile-1567529426500-8f7a3cbff088image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "readTime": 10  ,
+      "publishDate" : "Mar 14 (4 days ago)"
+      
+    },
+
+    {
+        "id": 2,
+      "authorName": "Pakata Goh",
+      "blogTitle": "what is the best process for a man to adapt with new technology  ?",
+      "blogCoverImage": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+      "authorImage" : "https://images.unsplash.com/profile-1590995584854-8f3fd95d401cimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "readTime": 20  ,
+      "publishDate" : "Mar 28 (3 days ago)"
+      
+    },
+
+    {
+        "id": 3,
+      "authorName": "Rahul Mishra",
+      "blogTitle": "As a beignar programmer where should he focus for his carrier ?",
+      "blogCoverImage": "https://images.unsplash.com/photo-1670057046254-3b5095eb4b66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "authorImage" : "https://images.unsplash.com/profile-fb-1652988724-ccdb2b7aab54.jpg?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "readTime": 30  ,
+      "publishDate" : "Mar 29 (2 days ago)"
+      
+    },
+
+    {
+        "id": 4,
+      "authorName": "Árpád Czapp",
+      "blogTitle": "What are the 4years roadmap for a cse student in his BSc Degree ?",
+      "blogCoverImage": "https://images.unsplash.com/photo-1618335829737-2228915674e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "authorImage" : "https://images.unsplash.com/profile-fb-1486114246-c89351f2ad99.jpg?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "readTime": 40  ,
+      "publishDate" : "Mar 26 (5 days ago)"
+      
+    }
+
+
+]
